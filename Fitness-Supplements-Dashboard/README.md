@@ -24,7 +24,6 @@ This project analyzes data for a fitness & supplements company to track business
 - Average Order Value (AOV)
 - Year-over-Year (YoY) Variance
 
-
 ## Insights Highlights
 - Revenue growth is driven mainly by higher order volume rather than price increases.
 - Profit margins vary significantly by region due to differences in costs and return rates.
@@ -32,6 +31,25 @@ This project analyzes data for a fitness & supplements company to track business
 - A segment of customers places no orders, indicating re-engagement opportunities.
 - YoY analysis shows overall business growth with seasonal fluctuations.
 
+## Dashboard Preview
+
+### Overview Page
+![Overview](images/over view.png)
+
+### Product Analysis
+![Product Analysis](images/Product_Analysis.png)
+
+### Location Analysis
+![Location Analysis](images/Location.png)
+
+### Customer Analysis
+![Customer Analysis](images/Customer_Analysis.png)
+
+### Returns Analysis
+![Returns Analysis](images/Return.png)
+
+### Time Analysis
+![Time Analysis](images/Time.png)
  
 ## Tools Used
 - Power BI
