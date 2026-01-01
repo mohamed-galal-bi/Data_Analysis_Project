@@ -34,22 +34,22 @@ This project analyzes data for a fitness & supplements company to track business
 ## Dashboard Preview
 
 ### Overview Page
-![Overview](images/over view.png)
+<img src="images/over view.png" width="800"/>
 
 ### Product Analysis
-![Product Analysis](images/Product_Analysis.png)
+<img src="images/Product_Analysis.png" width="800"/>
 
 ### Location Analysis
-![Location Analysis](images/Location.png)
+<img src="images/Location.png" width="800"/>
 
 ### Customer Analysis
-![Customer Analysis](images/Customer_Analysis.png)
+<img src="images/Customer_Analysis.png" width="800"/>
 
 ### Returns Analysis
-![Returns Analysis](images/Return.png)
+<img src="images/Return.png" width="800"/>
 
 ### Time Analysis
-![Time Analysis](images/Time.png)
+<img src="images/Time.png" width="800"/>
  
 ## Tools Used
 - Power BI
