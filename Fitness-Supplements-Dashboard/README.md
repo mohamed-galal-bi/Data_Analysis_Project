@@ -40,7 +40,7 @@ This project analyzes data for a fitness & supplements company to track business
 <img src="images/Product_Analysis.png" width="800"/>
 
 ### Location Analysis
-<img src="images/Location.png" width="800"/>
+<img src="images/Location .png" width="800"/>
 
 ### Customer Analysis
 <img src="images/Customer_Analysis.png" width="800"/>
