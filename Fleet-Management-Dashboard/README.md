@@ -74,8 +74,8 @@ These insights support better fleet optimization and cost control decisions.
 # Freight Analysis With Filter
 <img src="images/Freight Analysis With Filter.png" width="800"/>
 
-# Drill Through Page
-<img src="images/Drill Through Page.png" width="800"/>
+# Drill Through Relation Between  (AvgCost&Freight)
+<img src="images/Drill Through Relation Between  (AvgCost&Freight).png" width="800"/>
 
 
 
