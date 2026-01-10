@@ -56,11 +56,11 @@ These insights support better fleet optimization and cost control decisions.
 # Over View With Filter
 <img src="images/Over View With Filter.png" width="800"/>
 
-# tooltip 1
-<img src="images/tooltip 1.png" width="800"/>
+# Tool Tip Consumption Liter Per 100 KM And Fule Cost Per 100 KM
+<img src="images/Tool Tip Consumption liter per 100 KM And Fule Cost Per 100 KM.png" width="800"/>
 
-# tooltip 2
-<img src="images/Tooltip 2.png" width="800"/>
+# Tool Tip LM Revenue And Freight
+<img src="images/Tool Tip LM Revenue And Freight.png" width="800"/>
 
 # Truck Analysis
 <img src="images/Truck Analysis .png" width="800"/>
