@@ -47,3 +47,5 @@ These insights support better fleet optimization and cost control decisions.
 - Drill-through navigation for vehicle-level analysis
 - Dynamic KPIs with time intelligence (YoY, YTD, MTD)
 - Clean, business-focused visual design
+
+## Dashboard Preview
